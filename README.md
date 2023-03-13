@@ -29,5 +29,5 @@
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://eclipse-study.tistory.com/)](https://eclipse-study.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rnentkdals@gmail.com)](mailto:rnentkdals@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rnentkdals@naver.com)](mailto:rlatngus1691@naver.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rnentkdals@naver.com)](mailto:rnentkdals@naver.com)
 <div align="center">
