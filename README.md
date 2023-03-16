@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=CSS3&logoColor=white" />
 	
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F80002?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/Intellij IDEA-F80000?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/Eclipse IDE-F80000?style=flat&logo=CSS3&logoColor=white" />
  
