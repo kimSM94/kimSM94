@@ -1,5 +1,7 @@
 # KIM SANG MIN ☺️
 
+<img src = "https://user-images.githubusercontent.com/82505269/226943415-0b7cb418-f82d-423b-91d1-0321801fe1f7.png" width = "1000" height = "500" >
+
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkimSM94%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false"/></a>
 
 ![kimSM94's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimSM94&show_icons=true&theme=radical)
