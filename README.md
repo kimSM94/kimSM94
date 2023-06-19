@@ -10,7 +10,7 @@
 
 # 💪Skills
 
-<div align="center">
+<div align="center"> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimSM94&layout=compact"><br><br>
 
