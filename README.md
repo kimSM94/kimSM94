@@ -1,35 +1,38 @@
-# KIM SANG MIN   <img src = "https://user-images.githubusercontent.com/82505269/226943415-0b7cb418-f82d-423b-91d1-0321801fe1f7.png" width = "50" height = "50" >
+# Hi there 👋, I'm 김상민 (Sang-min Kim)
 
+### "5년째 코딩의 즐거움에 푹 빠져있는 개발자입니다." 💻
 
+현재 금융권 상담 부서에서 콜 관련 업무를 담당하며 실제 비즈니스와 현업의 흐름을 깊이 이해하고 있습니다. 동시에 실생활의 불편함을 개선하는 웹 애플리케이션을 만들고, 반복되는 작업을 혁신하는 자동화 파이프라인을 구축하는 것을 진심으로 즐깁니다. 아이디어를 코드로 실현하며 느끼는 성취감이 제가 계속해서 개발을 사랑하는 이유입니다!
 
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkimSM94%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false"/></a>
+<br/>
 
-![kimSM94's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimSM94&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnentkdals)](https://solved.ac/rnentkdals/)
+### 🛠 Tech Stack
 
+**Frontend**  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-# 💪Skills
+**Backend & DB**  
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
-<div align="center"> 
+**Automation & AI**  
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/> <img src="https://img.shields.io/badge/Shortcuts-000000?style=for-the-badge&logo=icloud&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimSM94&layout=compact"><br><br>
+<br/>
 
-### Platforms & Languages
-	
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/Node-339933?style=flat&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=CSS3&logoColor=white" />
-	
-### Tools
-<img src="https://img.shields.io/badge/Git-F80002?style=flat&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/Intellij IDEA-F80000?style=flat&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/Eclipse IDE-F80000?style=flat&logo=CSS3&logoColor=white" />
- 
-	
-# :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://eclipse-study.tistory.com/)](https://eclipse-study.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rnentkdals@gmail.com)](mailto:rnentkdals@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rnentkdals@naver.com)](mailto:rnentkdals@naver.com)
-<div align="center">
+### 🚀 Projects
+
+#### 🏢 AI 사내 좌석 관리 시스템
+* 모바일 환경에서도 매끄럽게 동작하는 반응형 UI를 적용하여 사내 지정 좌석을 효율적으로 관리하는 웹 애플리케이션입니다.
+* AI API를 접목해 좌석 예약 및 관리의 편의성을 극대화하고 사용자 친화적인 경험을 제공하도록 구축했습니다.
+* **Tech Stack:** `React`, `Tailwind CSS`, `Supabase`, `Gemini API`
+
+#### 🤖 블로그 및 소셜 미디어 자동화 에이전트
+* 식당 메뉴나 사진 등 다양한 데이터를 기반으로 블로그 포스팅을 자동 생성하고, 이웃 관리 프로세스(순회 및 댓글 등)를 자동화하는 에이전트를 개발하고 있습니다.
+* **Tech Stack:** `Node.js`, `Playwright`
+
+<br/>
+
+### 📫 Contact Me
+
+* 📧 **Email:** [rnentkdals@naver.com]
+* 💬 궁금한 점이 있거나 흥미로운 제안이 있다면 언제든 이메일로 연락해 주세요!
